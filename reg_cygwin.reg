@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cygwin]
+@="在Cygwin中打开"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cygwin\command]
+@="D:\cygwin64\Cygwin.bat"
